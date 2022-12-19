@@ -1,4 +1,4 @@
-I am Alexandre Cremers, a researcher in linguistics, more specifically in semantics and pragmatics.
+I am Alexandre Cremers, a researcher in cognitive science and linguistics, more specifically in semantics and pragmatics.
 My research focuses on phenomena at the interface between linguistic meaning and general reasoning, in particular questions, implicatures, and vagueness.
 My work combines psycholinguistic approaches (studying linguistic behavior both in adults and in children), traditional formal approaches inspired by logic, and quantitative probabilistic modeling.
 
